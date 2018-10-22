@@ -1,4 +1,5 @@
 # Express Cart Web App Testing
+![eC](https://i.imgur.com/5Ku88YF.png)
 expressCart is a fully functional shopping cart built in Node.js (Express, MongoDB) with Stripe, PayPal and Authorize.net payments. This is a Web App Testing for expressCart.
 
 ## Getting Started
